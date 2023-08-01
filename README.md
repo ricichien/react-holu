@@ -1,8 +1,3 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
   <h1>Solar Energy System Calculator</h1>
   <p>This project is a web application that helps users calculate the solar energy system's specifications based on their power requirements. The application is built using React and integrates with Firebase for data storage.</p>
 
