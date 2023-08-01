@@ -44,7 +44,3 @@
 
   <h2>License</h2>
   <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-
-  <p>Feel free to customize the README.md file as needed and add more sections, such as acknowledgments, credits, or contributing guidelines, based on your project requirements.</p>
-</body>
-</html>
