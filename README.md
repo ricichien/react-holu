@@ -1,7 +1,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Solar Energy System Calculator</title>
 </head>
 <body>
   <h1>Solar Energy System Calculator</h1>
